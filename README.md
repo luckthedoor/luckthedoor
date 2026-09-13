@@ -6,8 +6,8 @@ Interested in Robot Learning, Embodied AI, and Vision-Language-Action (VLA).
 
 ## About Me
 
-- Feb. 2022 — Admission to Kyung Hee University, Department of Artificial Intelligence
-- Dec. 2025 — Present — Undergraduate Researcher at AIRLab, Kyung Hee University
+- Feb. 2022 - Admission to Kyung Hee University, Department of Artificial Intelligence
+- Dec. 2025 - Present - Undergraduate Researcher at AIRLab, Kyung Hee University
 
 ## Research
 
